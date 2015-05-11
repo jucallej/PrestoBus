@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PrestoBus</string>
+    <string name="title_parada_detail">Detalles de la parada</string>
+    <string name="nombreParda">Nombre Parda</string>
+    <string name="action_settings">Opciones</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_refresh">Recargar</string>
+    <string name="title_activity_lista_lineas">ListaLineas</string>
+    <string name="loading">Cargando …</string>
+    <string name="empty">No hay autobuses en este momento.</string>
+
+    <string name="noFav">Puedes guardar tus paradas favoritas. Búscalas con la lupa superior.</string>
+
+    <string name="hintFilterLine">Busque la línea</string>
+    <string name="search">Search Button</string>
+    <string name="title_activity_selector_sentido">Selector Sentido</string>
+    <string name="title_activity_lista_paradas">ListaParadas</string>
+    <string name="hintFilterParada">Busque la parada</string>
+</resources>
