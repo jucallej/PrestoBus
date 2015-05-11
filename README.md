@@ -5,7 +5,7 @@ Está desarollada para Android 4.1 o superior y usa el tema Material introducido
 Consulta la API de la [EMT](http://opendata.emtmadrid.es/) para obtener los tiempos reales de espera de los autobuses en tus paradas favoritas.
 
 ## Instalación
-Para instalar PrestoBus, simplemente puedes bajar el [apk](PrestoBus.apk) y proceder normalmente. Tienes que tener activada la opción para instalar contenido que no proceda de la Play Store como se indica por ejemplo en la web de [amazon](https://www.amazon.es/gp/help/customer/display.html?nodeId=201482620). 
+Para instalar PrestoBus, simplemente puedes bajar el [apk](https://github.com/jucallej/PrestoBus/raw/master/PrestoBus.apk) y proceder normalmente. Tienes que tener activada la opción para instalar contenido que no proceda de la Play Store como se indica por ejemplo en la web de [amazon](https://www.amazon.es/gp/help/customer/display.html?nodeId=201482620). 
 
 Requiere permisos para acceder a internet, pues necesita consultar la API de la EMT y también te muestra un mapa de Google con la localización de la parada.
 
