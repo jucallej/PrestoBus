@@ -28,6 +28,6 @@ Como teníamos que hacer una WebView para cumplir con los requisitos del proyect
 ## Media
 ![imagen](media/PrestoBus%20(6).png)
 
-### [Video con la demo de la aplicación](media/PrestoBus.mp4)
+### [Video con la demo de la aplicación](https://raw.githubusercontent.com/jucallej/PrestoBus/master/media/PrestoBus.mp4)
 
 Hay mas imagenes en la carpeta [media](media).
